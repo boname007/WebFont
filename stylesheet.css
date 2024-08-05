@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'On Fire Free Trial';
+    src: url('OnFireFreeTrial.woff2') format('woff2'),
+        url('OnFireFreeTrial.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
